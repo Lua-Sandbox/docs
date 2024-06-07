@@ -120,7 +120,7 @@ Credits to [Raymond](https://roblox.com/users/1714750665) for the idea.
 
 <summary>How to use</summary>
 
-If you would like to use LoadAssets then first download the .rbxm file [here](https://lua-sandbox.ewdev.net/public/assetLoader.rbxm) and then open it in studio. After that you can insert in all assets that you want to be able to use ingame. And then publish the ModuleScript (remember to enable "Distribute on Marketplace"), then copy the asset id.
+First of all you need to get the Model from Roblox [here](https://create.roblox.com/store/asset/17767723528/AssetLoader), and then add it in studio. After that you can insert in all assets that you want to be able to use ingame. And then publish the ModuleScript (remember to enable "Distribute on Marketplace"), then copy the asset id.
 
 (Remember that modifying the ModuleScript's source or adding any blocked instances will cause it to be blocked in-game.)
 
